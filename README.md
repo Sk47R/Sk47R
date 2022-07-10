@@ -10,7 +10,8 @@
 
 ### Connect with me:
 [<img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width="42px"/>](https://www.linkedin.com/in/sujan-kapali-78064b208/)
-[<img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width="42px"/>](https://www.linkedin.com/in/sujan-kapali-78064b208/)
+[<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="32px"/>](https://www.instagram.com/kapali_sujan/)
+[<img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" width="32px"/>](https://www.facebook.com/sujan.kapali.988/)
 
 
 ### Language and Tools:
