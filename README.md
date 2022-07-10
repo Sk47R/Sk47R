@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Life is Good...
 
 ### Connect with me:
-<img src="[https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80](https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png)"/>
+<img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png"/>
 
 
 ### Language and Tools:
