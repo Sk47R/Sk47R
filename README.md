@@ -1,11 +1,9 @@
 ### Hi there, I'm Sujan Kapali 👋
 
 
-- 🔭 I’m currently working on Chat App in C++ Using Boost Asio
-- 🌱 I’m currently learning Networking
-- 👯 I’m looking to collaborate on Web Development(MERN, PERN Stack), App Development(Flutter)
-- 🤔 I’m looking for help with Networking and Multi-Threading
-- 💬 Ask me about MERN Stack, PERN Stack, Flutter, css, sass
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on Machine Learning, Data Science ,Web Development(MERN, PERN Stack), App Development(Flutter)
+- 💬 Ask me about Machine Learning, Data Science, MERN Stack, PERN Stack, Flutter, css, sass
 
 
 ### Connect with me:
